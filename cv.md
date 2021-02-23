@@ -63,5 +63,4 @@ The project is designed to store entertainment literature in the genre of fantas
 **Belarusian State University of Informatics and Radioelectronics** (2008 - 2012)  
 *Information technology and management in technical systems*
 
-
-
+**English level:** A2

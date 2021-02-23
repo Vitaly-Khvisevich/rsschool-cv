@@ -51,4 +51,17 @@ def search(name):
 search('you')
 ```
 
+##### Work experience:  
+**EDUCATIONAL CENTER FOR PROGRAMMING AND HIGH TECH**  
+**Project name:** Electronic library of science fiction and fantasy.  
+The project is designed to store entertainment literature in the genre of fantasy and science fiction in one place, as well as distribute this information among interested people. The project was executed in Django using Html, css and Sqlite. The functions of registration, adding information, feedback, selection, and saving to the user's computer were enabled.
+
+##### Education: 
+**Educational Center for Programming and High Tech** (07.2020 - 10.2020)  
+*Comprehensive course on Web application development in Python Python Developer*
+
+**Belarusian State University of Informatics and Radioelectronics** (2008 - 2012)  
+*Information technology and management in technical systems*
+
+
 
